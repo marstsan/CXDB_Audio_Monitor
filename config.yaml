@@ -1,0 +1,50 @@
+env:
+  HK:
+      account: jimtestm800+3@gmail.com
+      password: m800!QAZ2wsx
+      service: https://qaprodtest1-hk.cinnox.com
+      serviceid: mc-01603
+      direct_call_url: https://cinnox.com/cx/5lPSOEEg
+      appID: 763739bf-4c45-46e6-be80-aa1f670689c4
+      Base_URL: https://hkpd-wk-aws.cx.cinnox.com
+      AppToken: mct.1.91086.53164.eyJzYWx-IjoiTTdmZVNIclE3dSIsInNlcnZpY1VJRCI5Im0jLTAxNjAzIiwic1VydmljZUhvbWVSZWdpb13iOiJwcm8kLWhrLTAyIn-+
+
+  SG:
+      account: sg_audio_monitor@yopmail.com
+      password: m800!QAZ2wsx
+      service: https://ao-awssgtest06.cinnox.com
+      serviceid: cx-03714
+      direct_call_url: https://cinnox.com/cx/nXSoyboV
+      appID: 57170c85-6f42-4bd7-8b3a-e2bc0ff64706
+      Base_URL: https://sgpd-wk-aws.cx.cinnox.com
+      AppToken: mct.1.91086.53164.eyJzYWx-IjoiTDliV2o2QVJvNyIsInNlcnZpY1VJRCI5ImN3LTAzNzE-Iiwic1VydmljZUhvbWVSZWdpb13iOiJwcm8kLXNnLTAxIn-+
+
+  JP:
+      account: andtatester-1@yopmail.com
+      password: m800!QAZ2wsx
+      service: https://ao-awsjptest06.cinnox.com
+      serviceid: cx-03715
+      direct_call_url: https://cinnox.com/cx/50vNGeMM
+      appID: bb27c3fe-cc83-4291-84e1-4ed1d760e5c6
+      Base_URL: https://jppd-wk-aws.cx.cinnox.com
+      AppToken: mct.1.91086.53164.eyJzYWx-IjoiOTVwc2Bxb0BjYSIsInNlcnZpY1VJRCI5ImN3LTAzNzE0Iiwic1VydmljZUhvbWVSZWdpb13iOiJwcm8kLWpwLTAxIn-+
+
+  BJ:
+    account: jimbjm800@gmail.com
+    password: m800!QAZ2wsx
+    service: https://aliyuntest2.cinnox.com
+    serviceid: cx-03844
+    direct_call_url: https://cinnox.cn/cx/kzhkKe6b
+    appID: 9e9792f7-0c7f-43fd-9223-e54a4b7d1424
+    Base_URL: https://bjpd-wk.cx.cinnox.cn
+    AppToken: mct.1.91086.53164.eyJzYWx-IjoibDJoOHZSTGVxeCIsInNlcnZpY1VJRCI5ImN3LTAzODQ-Iiwic1VydmljZUhvbWVSZWdpb13iOiJwcm8kLWJqLTAxIn-+
+
+
+send_notification:
+  edge_server: https://hkpd-ed-aws.cx.cinnox.com
+  service_id: internal.lc.m800.com
+  username: jimchen@m800.com
+  password: 888888Ii
+  room_id:
+    - 63ec1111-4823-4ce6-9a90-ff01bc1028a7@prod-hk-02@1   # jack test space
+  room_name: jack_test_space

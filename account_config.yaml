@@ -1,0 +1,47 @@
+SG:
+  account:
+    staffA:
+      email: jimSGm800@gmail.com
+      password: m800!QAZ2wsx
+      name: jim chen
+    staffB:
+      email: jimSGm800+1@gmail.com
+      password: m800!QAZ2wsx
+      name: jim agent
+    staffC:
+      email: jimsgmm800@yopmail.com
+      password: m800!QAZ2wsx
+      name: jim agent02
+
+  service: https://ao-awssgtest06.cinnox.com
+  serviceid: cx-03714
+  direct_call_url: https://cinnox.com/cx/5fgaVTKP
+  appID: 57170c85-6f42-4bd7-8b3a-e2bc0ff64706
+  Base_URL: https://sgpd-wk-aws.cx.cinnox.com
+  AppToken: mct.1.91086.53164.eyJzYWx-IjoiTDliV2o2QVJvNyIsInNlcnZpY1VJRCI5ImN3LTAzNzE-Iiwic1VydmljZUhvbWVSZWdpb13iOiJwcm8kLXNnLTAxIn-+
+
+
+HK:
+  account:
+    staffA:
+      email: twm800qa+jesse@gmail.com
+      password: M800tp49c
+      name: jesse 01admin
+    staffB:
+      email: twm800qa+jessea@gmail.com
+      password: M800tp49c
+      name: jesse 01agent
+    staffC:
+      email: twm800qa+jesse2@gmail.com
+      password: M800tp49c
+      name: jesse 02admin
+
+  service: https://qaprodtest1-hk.cinnox.com
+  serviceid: mc-01603
+  direct_call_url: https://cinnox.com/cx/oS7B5CtW
+  appID: 763739bf-4c45-46e6-be80-aa1f670689c4
+  Base_URL: https://hkpd-wk-aws.cx.cinnox.com
+  AppToken: mct.1.91086.53164.eyJzYWx-IjoiTTdmZVNIclE3dSIsInNlcnZpY1VJRCI5Im0jLTAxNjAzIiwic1VydmljZUhvbWVSZWdpb13iOiJwcm8kLWhrLTAyIn-+
+
+
+

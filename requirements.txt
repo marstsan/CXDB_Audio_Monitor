@@ -1,0 +1,16 @@
+requests
+pyperclip
+playwright
+PyYAML
+soundcard
+soundfile
+future
+numpy
+librosa
+tensorflow
+pillow
+docopt
+joblib
+scipy
+psutil
+flask

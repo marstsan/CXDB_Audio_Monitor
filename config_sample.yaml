@@ -1,0 +1,46 @@
+env:
+  HK:
+      account: <cinnox_login_email>
+      password: <cinnox_login_password>
+      service: <cinnox_service_url>
+      direct_call_url: <staff_direct_call_url>
+      appID: <cinnox_OpenAPI_appID>
+      Base_URL: <cinnox_OpenAPI_base_url>
+      AppToken: <cinnox_OpenAPI_app_token>
+
+  SG:
+      account: <cinnox_login_email>
+      password: <cinnox_login_password>
+      service: <cinnox_service_url>
+      direct_call_url: <staff_direct_call_url>
+      appID: <cinnox_OpenAPI_appID>
+      Base_URL: <cinnox_OpenAPI_base_url>
+      AppToken: <cinnox_OpenAPI_app_token>
+
+  JP:
+      account: <cinnox_login_email>
+      password: <cinnox_login_password>
+      service: <cinnox_service_url>
+      direct_call_url: <staff_direct_call_url>
+      appID: <cinnox_OpenAPI_appID>
+      Base_URL: <cinnox_OpenAPI_base_url>
+      AppToken: <cinnox_OpenAPI_app_token>
+
+  BJ:
+    account: <cinnox_login_email>
+    password: <cinnox_login_password>
+    service: <cinnox_service_url>
+    direct_call_url: <staff_direct_call_url>
+    appID: <cinnox_OpenAPI_appID>
+    Base_URL: <cinnox_OpenAPI_base_url>
+    AppToken: <cinnox_OpenAPI_app_token>
+
+
+send_notification:
+  edge_server: https://hkpd-ed-aws.cx.cinnox.com
+  service_id: internal.lc.m800.com
+  username: <cinnox_login_email>
+  password: <cinnox_login_password>
+  room_id:
+    - 63ec1111-4823-4ce6-9a90-ff01bc1028a7@prod-hk-02@1   # jack test space
+  room_name: jack_test_space
